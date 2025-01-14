@@ -54,7 +54,7 @@ connection = mysql.connector.connect(
     host="localhost",
     port=3306,
     user="root",
-    password="Aim12345!",
+    password="xxxxx",
     database="ap_rssi"
 )
 
